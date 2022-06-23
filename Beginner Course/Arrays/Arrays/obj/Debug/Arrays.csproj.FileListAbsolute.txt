@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Arrays\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Arrays\Arrays\obj\Debug\Arrays.pdb

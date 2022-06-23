@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Beginner Course\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe.config
+C:\Users\Frank\Documents\Git\C#\Beginner Course\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\TypeConversion\TypeConversion\bin\Debug\TypeConversion.pdb
+C:\Users\Frank\Documents\Git\C#\Beginner Course\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\TypeConversion\TypeConversion\obj\Debug\TypeConversion.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\TypeConversion\TypeConversion\obj\Debug\TypeConversion.pdb

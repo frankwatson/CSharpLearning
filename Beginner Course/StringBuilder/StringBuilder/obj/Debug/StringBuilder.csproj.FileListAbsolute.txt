@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Beginner Course\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\Users\Frank\Documents\Git\C#\Beginner Course\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\StringBuilder\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\Users\Frank\Documents\Git\C#\Beginner Course\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\StringBuilder\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\StringBuilder\StringBuilder\obj\Debug\StringBuilder.pdb

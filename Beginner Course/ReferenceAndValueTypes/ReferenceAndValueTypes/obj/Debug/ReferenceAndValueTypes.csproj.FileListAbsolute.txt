@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.exe.config
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.pdb
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.pdb

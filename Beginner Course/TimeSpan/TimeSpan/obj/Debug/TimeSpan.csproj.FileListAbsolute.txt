@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Beginner Course\TimeSpan\TimeSpan\bin\Debug\TimeSpan.exe.config
+C:\Users\Frank\Documents\Git\C#\Beginner Course\TimeSpan\TimeSpan\bin\Debug\TimeSpan.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\TimeSpan\TimeSpan\bin\Debug\TimeSpan.pdb
+C:\Users\Frank\Documents\Git\C#\Beginner Course\TimeSpan\TimeSpan\obj\Debug\TimeSpan.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\TimeSpan\TimeSpan\obj\Debug\TimeSpan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\TimeSpan\TimeSpan\obj\Debug\TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\TimeSpan\TimeSpan\obj\Debug\TimeSpan.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\TimeSpan\TimeSpan\obj\Debug\TimeSpan.pdb

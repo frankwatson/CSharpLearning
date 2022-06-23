@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Beginner Course\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\DirectoryAndDirectoryInfo.exe.config
+C:\Users\Frank\Documents\Git\C#\Beginner Course\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\DirectoryAndDirectoryInfo.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\DirectoryAndDirectoryInfo.pdb
+C:\Users\Frank\Documents\Git\C#\Beginner Course\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.pdb

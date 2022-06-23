@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Lists\Lists\bin\Debug\Lists.exe.config
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Lists\Lists\bin\Debug\Lists.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Lists\Lists\bin\Debug\Lists.pdb
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Lists\Lists\obj\Debug\Lists.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Lists\Lists\obj\Debug\Lists.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Lists\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Lists\Lists\obj\Debug\Lists.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Lists\Lists\obj\Debug\Lists.pdb

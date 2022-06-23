@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Constructors\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Constructors\Constructors\bin\Debug\Constructors.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Constructors\Constructors\bin\Debug\Constructors.pdb
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Constructors\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Constructors\Constructors\obj\Debug\Constructors.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Constructors\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Constructors\Constructors\obj\Debug\Constructors.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Constructors\Constructors\obj\Debug\Constructors.pdb

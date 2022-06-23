@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section2Excercises\StackOverflow\StackOverflow\bin\Debug\StackOverflow.exe.config
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section2Excercises\StackOverflow\StackOverflow\bin\Debug\StackOverflow.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section2Excercises\StackOverflow\StackOverflow\bin\Debug\StackOverflow.pdb
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section2Excercises\StackOverflow\StackOverflow\obj\Debug\StackOverflow.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section2Excercises\StackOverflow\StackOverflow\obj\Debug\StackOverflow.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section2Excercises\StackOverflow\StackOverflow\obj\Debug\StackOverflow.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section2Excercises\StackOverflow\StackOverflow\obj\Debug\StackOverflow.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section2Excercises\StackOverflow\StackOverflow\obj\Debug\StackOverflow.pdb

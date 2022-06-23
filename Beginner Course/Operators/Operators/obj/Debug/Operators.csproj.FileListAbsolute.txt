@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Operators\Operators\obj\Debug\Operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Operators\Operators\obj\Debug\Operators.pdb

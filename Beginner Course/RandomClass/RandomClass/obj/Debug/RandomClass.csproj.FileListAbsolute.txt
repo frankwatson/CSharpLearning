@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Beginner Course\RandomClass\RandomClass\bin\Debug\RandomClass.exe.config
+C:\Users\Frank\Documents\Git\C#\Beginner Course\RandomClass\RandomClass\bin\Debug\RandomClass.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\RandomClass\RandomClass\bin\Debug\RandomClass.pdb
+C:\Users\Frank\Documents\Git\C#\Beginner Course\RandomClass\RandomClass\obj\Debug\RandomClass.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\RandomClass\RandomClass\obj\Debug\RandomClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\RandomClass\RandomClass\obj\Debug\RandomClass.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\RandomClass\RandomClass\obj\Debug\RandomClass.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\RandomClass\RandomClass\obj\Debug\RandomClass.pdb

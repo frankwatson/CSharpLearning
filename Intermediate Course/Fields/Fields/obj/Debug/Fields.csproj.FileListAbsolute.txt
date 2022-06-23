@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Fields\Fields\bin\Debug\Fields.exe.config
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Fields\Fields\bin\Debug\Fields.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Fields\Fields\bin\Debug\Fields.pdb
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Fields\Fields\obj\Debug\Fields.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Fields\Fields\obj\Debug\Fields.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Fields\Fields\obj\Debug\Fields.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Fields\Fields\obj\Debug\Fields.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Fields\Fields\obj\Debug\Fields.pdb

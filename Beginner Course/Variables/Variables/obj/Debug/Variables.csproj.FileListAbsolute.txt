@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Variables\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Variables\Variables\obj\Debug\Variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Variables\Variables\obj\Debug\Variables.pdb

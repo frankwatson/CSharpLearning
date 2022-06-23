@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Strings\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Strings\Strings\obj\Debug\Strings.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Strings\Strings\obj\Debug\Strings.pdb

@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Beginner Course\DateTime\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\Frank\Documents\Git\C#\Beginner Course\DateTime\DateTime\bin\Debug\DateTime.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\DateTime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\Frank\Documents\Git\C#\Beginner Course\DateTime\DateTime\obj\Debug\DateTime.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\DateTime\DateTime\obj\Debug\DateTime.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\DateTime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\DateTime\DateTime\obj\Debug\DateTime.pdb

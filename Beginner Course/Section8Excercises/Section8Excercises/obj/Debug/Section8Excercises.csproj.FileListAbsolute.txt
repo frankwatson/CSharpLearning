@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Section8Excercises\Section8Excercises\bin\Debug\Section8Excercises.exe.config
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Section8Excercises\Section8Excercises\bin\Debug\Section8Excercises.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Section8Excercises\Section8Excercises\bin\Debug\Section8Excercises.pdb
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Section8Excercises\Section8Excercises\obj\Debug\Section8Excercises.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Section8Excercises\Section8Excercises\obj\Debug\Section8Excercises.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Section8Excercises\Section8Excercises\obj\Debug\Section8Excercises.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Section8Excercises\Section8Excercises\obj\Debug\Section8Excercises.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Section8Excercises\Section8Excercises\obj\Debug\Section8Excercises.pdb

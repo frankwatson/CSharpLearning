@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ProceduralProgramming\ProceduralProgramming\bin\Debug\ProceduralProgramming.exe.config
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ProceduralProgramming\ProceduralProgramming\bin\Debug\ProceduralProgramming.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ProceduralProgramming\ProceduralProgramming\bin\Debug\ProceduralProgramming.pdb
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ProceduralProgramming\ProceduralProgramming\obj\Debug\ProceduralProgramming.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ProceduralProgramming\ProceduralProgramming\obj\Debug\ProceduralProgramming.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ProceduralProgramming\ProceduralProgramming\obj\Debug\ProceduralProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ProceduralProgramming\ProceduralProgramming\obj\Debug\ProceduralProgramming.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ProceduralProgramming\ProceduralProgramming\obj\Debug\ProceduralProgramming.pdb

@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ReferenceCont\ReferenceCont\bin\Debug\ReferenceCont.exe.config
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ReferenceCont\ReferenceCont\bin\Debug\ReferenceCont.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ReferenceCont\ReferenceCont\bin\Debug\ReferenceCont.pdb
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ReferenceCont\ReferenceCont\obj\Debug\ReferenceCont.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ReferenceCont\ReferenceCont\obj\Debug\ReferenceCont.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ReferenceCont\ReferenceCont\obj\Debug\ReferenceCont.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ReferenceCont\ReferenceCont\obj\Debug\ReferenceCont.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\ReferenceCont\ReferenceCont\obj\Debug\ReferenceCont.pdb

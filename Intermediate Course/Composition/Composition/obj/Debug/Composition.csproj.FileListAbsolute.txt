@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Composition\Composition\bin\Debug\Composition.exe.config
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Composition\Composition\bin\Debug\Composition.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Composition\Composition\bin\Debug\Composition.pdb
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Composition\Composition\obj\Debug\Composition.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Composition\Composition\obj\Debug\Composition.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Composition\Composition\obj\Debug\Composition.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Composition\Composition\obj\Debug\Composition.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Composition\Composition\obj\Debug\Composition.pdb

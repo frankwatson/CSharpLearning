@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Properties\Properties\bin\Debug\Properties.exe.config
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Properties\Properties\bin\Debug\Properties.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Properties\Properties\bin\Debug\Properties.pdb
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Properties\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Properties\Properties\obj\Debug\Properties.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Properties\Properties\obj\Debug\Properties.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Properties\Properties\obj\Debug\Properties.pdb

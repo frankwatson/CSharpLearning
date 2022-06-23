@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Conditionals\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Conditionals\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Conditionals\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Conditionals\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Conditionals\Conditionals\obj\Debug\Conditionals.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Conditionals\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Conditionals\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\Frank\Documents\Git\C#\Beginner Course\Conditionals\Conditionals\obj\Debug\Conditionals.pdb
