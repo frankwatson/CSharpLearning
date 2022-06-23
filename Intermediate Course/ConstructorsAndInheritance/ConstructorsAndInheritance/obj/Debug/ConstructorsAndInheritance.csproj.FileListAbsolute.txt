@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\ConstructorsAndInheritance\ConstructorsAndInheritance\obj\Debug\ConstructorsAndInheritance.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\ConstructorsAndInheritance\ConstructorsAndInheritance\obj\Debug\ConstructorsAndInheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\ConstructorsAndInheritance\ConstructorsAndInheritance\obj\Debug\ConstructorsAndInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\ConstructorsAndInheritance\ConstructorsAndInheritance\bin\Debug\ConstructorsAndInheritance.exe.config
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\ConstructorsAndInheritance\ConstructorsAndInheritance\bin\Debug\ConstructorsAndInheritance.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\ConstructorsAndInheritance\ConstructorsAndInheritance\bin\Debug\ConstructorsAndInheritance.pdb
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\ConstructorsAndInheritance\ConstructorsAndInheritance\obj\Debug\ConstructorsAndInheritance.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\ConstructorsAndInheritance\ConstructorsAndInheritance\obj\Debug\ConstructorsAndInheritance.pdb

@@ -1,0 +1,12 @@
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\AccessModifiers2\Amazon\bin\Debug\net6.0\Amazon.deps.json
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\AccessModifiers2\Amazon\bin\Debug\net6.0\Amazon.dll
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\AccessModifiers2\Amazon\bin\Debug\net6.0\Amazon.pdb
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\AccessModifiers2\Amazon\obj\Debug\net6.0\Amazon.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\AccessModifiers2\Amazon\obj\Debug\net6.0\Amazon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\AccessModifiers2\Amazon\obj\Debug\net6.0\Amazon.AssemblyInfoInputs.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\AccessModifiers2\Amazon\obj\Debug\net6.0\Amazon.AssemblyInfo.cs
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\AccessModifiers2\Amazon\obj\Debug\net6.0\Amazon.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\AccessModifiers2\Amazon\obj\Debug\net6.0\Amazon.dll
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\AccessModifiers2\Amazon\obj\Debug\net6.0\refint\Amazon.dll
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\AccessModifiers2\Amazon\obj\Debug\net6.0\Amazon.pdb
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\AccessModifiers2\Amazon\obj\Debug\net6.0\ref\Amazon.dll
