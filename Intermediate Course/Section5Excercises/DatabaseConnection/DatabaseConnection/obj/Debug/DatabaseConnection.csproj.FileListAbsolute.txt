@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section5Excercises\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section5Excercises\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section5Excercises\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section5Excercises\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section5Excercises\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section5Excercises\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section5Excercises\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section5Excercises\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.pdb
