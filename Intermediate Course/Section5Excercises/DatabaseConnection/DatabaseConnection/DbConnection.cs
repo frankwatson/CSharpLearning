@@ -5,7 +5,7 @@ namespace DatabaseConnection
     public abstract class DbConnection
     {
         private readonly string _connectionString;
-        protected TimeSpan _timeout;
+        protected TimeSpan Timeout;
 
         protected DbConnection(string connectionString)
         {
@@ -13,7 +13,7 @@ namespace DatabaseConnection
                 throw new ArgumentException("The connection string cannot be null, whitespace or empty");
 
             _connectionString = connectionString;
-            _timeout = TimeSpan.FromSeconds(5);
+            Timeout = TimeSpan.FromSeconds(5);
         }
 
         public abstract void Open();

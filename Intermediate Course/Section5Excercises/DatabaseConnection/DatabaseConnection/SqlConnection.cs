@@ -10,7 +10,7 @@ namespace DatabaseConnection
         public override void Open()
         {
 
-            if (_timeout > DateTime.Now - DateTime.Now.Subtract(_timeout))
+            if (Timeout > DateTime.Now - DateTime.Now.Subtract(Timeout))
             {
                 Console.WriteLine("Sql connection has been opened.");
             }
