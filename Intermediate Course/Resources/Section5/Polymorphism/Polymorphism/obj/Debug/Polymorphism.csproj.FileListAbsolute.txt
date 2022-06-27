@@ -4,3 +4,11 @@ C:\Projects\CSharpIntermediate\Section5\Polymorphism\Polymorphism\bin\Debug\Poly
 C:\Projects\CSharpIntermediate\Section5\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csprojResolveAssemblyReference.cache
 C:\Projects\CSharpIntermediate\Section5\Polymorphism\Polymorphism\obj\Debug\Polymorphism.exe
 C:\Projects\CSharpIntermediate\Section5\Polymorphism\Polymorphism\obj\Debug\Polymorphism.pdb
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Resources\Section5\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe.config
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Resources\Section5\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Resources\Section5\Polymorphism\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Resources\Section5\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Resources\Section5\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Resources\Section5\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Resources\Section5\Polymorphism\Polymorphism\obj\Debug\Polymorphism.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Resources\Section5\Polymorphism\Polymorphism\obj\Debug\Polymorphism.pdb

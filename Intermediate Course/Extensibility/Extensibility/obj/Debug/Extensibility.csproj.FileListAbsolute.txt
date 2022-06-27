@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Extensibility\Extensibility\bin\Debug\Extensibility.exe.config
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Extensibility\Extensibility\bin\Debug\Extensibility.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Extensibility\Extensibility\bin\Debug\Extensibility.pdb
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Extensibility\Extensibility\obj\Debug\Extensibility.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Extensibility\Extensibility\obj\Debug\Extensibility.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Extensibility\Extensibility\obj\Debug\Extensibility.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Extensibility\Extensibility\obj\Debug\Extensibility.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Extensibility\Extensibility\obj\Debug\Extensibility.pdb

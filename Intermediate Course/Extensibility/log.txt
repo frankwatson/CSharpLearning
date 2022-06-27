@@ -1,0 +1,2 @@
+INFO: Migration started at 6/27/2022 12:22:13 PM
+INFO: Migration has finished at 6/27/2022 12:22:13 PM

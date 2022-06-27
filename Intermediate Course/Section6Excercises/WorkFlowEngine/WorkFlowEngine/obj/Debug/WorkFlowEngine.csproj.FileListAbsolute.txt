@@ -1,0 +1,8 @@
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section6Excercises\WorkFlowEngine\WorkFlowEngine\bin\Debug\WorkFlowEngine.exe.config
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section6Excercises\WorkFlowEngine\WorkFlowEngine\bin\Debug\WorkFlowEngine.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section6Excercises\WorkFlowEngine\WorkFlowEngine\bin\Debug\WorkFlowEngine.pdb
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section6Excercises\WorkFlowEngine\WorkFlowEngine\obj\Debug\WorkFlowEngine.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section6Excercises\WorkFlowEngine\WorkFlowEngine\obj\Debug\WorkFlowEngine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section6Excercises\WorkFlowEngine\WorkFlowEngine\obj\Debug\WorkFlowEngine.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section6Excercises\WorkFlowEngine\WorkFlowEngine\obj\Debug\WorkFlowEngine.exe
+C:\Users\Frank\Documents\Git\C#\Intermediate Course\Section6Excercises\WorkFlowEngine\WorkFlowEngine\obj\Debug\WorkFlowEngine.pdb
