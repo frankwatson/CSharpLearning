@@ -1,0 +1,13 @@
+C:\Users\Frank\Documents\Git\C#\Entity Framework\DbFirst\DbFirst\bin\Debug\DbFirst.exe.config
+C:\Users\Frank\Documents\Git\C#\Entity Framework\DbFirst\DbFirst\bin\Debug\DbFirst.exe
+C:\Users\Frank\Documents\Git\C#\Entity Framework\DbFirst\DbFirst\bin\Debug\DbFirst.pdb
+C:\Users\Frank\Documents\Git\C#\Entity Framework\DbFirst\DbFirst\bin\Debug\EntityFramework.dll
+C:\Users\Frank\Documents\Git\C#\Entity Framework\DbFirst\DbFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Frank\Documents\Git\C#\Entity Framework\DbFirst\DbFirst\bin\Debug\EntityFramework.xml
+C:\Users\Frank\Documents\Git\C#\Entity Framework\DbFirst\DbFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Frank\Documents\Git\C#\Entity Framework\DbFirst\DbFirst\obj\Debug\DbFirst.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\C#\Entity Framework\DbFirst\DbFirst\obj\Debug\DbFirst.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\C#\Entity Framework\DbFirst\DbFirst\obj\Debug\DbFirst.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\C#\Entity Framework\DbFirst\DbFirst\obj\Debug\DbFirst.csproj.CopyComplete
+C:\Users\Frank\Documents\Git\C#\Entity Framework\DbFirst\DbFirst\obj\Debug\DbFirst.exe
+C:\Users\Frank\Documents\Git\C#\Entity Framework\DbFirst\DbFirst\obj\Debug\DbFirst.pdb
