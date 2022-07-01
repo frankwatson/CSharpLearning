@@ -28,21 +28,21 @@ namespace DbFirst
         }
     
         public virtual DbSet<Author> Authors { get; set; }
-        public virtual DbSet<Cours> Courses { get; set; }
+        public virtual DbSet<Course> Courses { get; set; }
         public virtual DbSet<CourseSection> CourseSections { get; set; }
         public virtual DbSet<Post> Posts { get; set; }
         public virtual DbSet<Tag> Tags { get; set; }
         public virtual DbSet<tblUser> tblUsers { get; set; }
         public virtual DbSet<UserProfile> UserProfiles { get; set; }
     
-        [DbFunction("PlutoDbContext", "funcGetAuthorCourses")]
-        public virtual IQueryable<funcGetAuthorCourses_Result> funcGetAuthorCourses(Nullable<int> authorID)
+        [DbFunction("PlutoDbContext", "GetAuthorCourses")]
+        public virtual IQueryable<funcGetAuthorCourses_Result> GetAuthorCourses(Nullable<int> authorID)
         {
             var authorIDParameter = authorID.HasValue ?
                 new ObjectParameter("AuthorID", authorID) :
                 new ObjectParameter("AuthorID", typeof(int));
     
-            return ((IObjectContextAdapter)this).ObjectContext.CreateQuery<funcGetAuthorCourses_Result>("[PlutoDbContext].[funcGetAuthorCourses](@AuthorID)", authorIDParameter);
+            return ((IObjectContextAdapter)this).ObjectContext.CreateQuery<funcGetAuthorCourses_Result>("[PlutoDbContext].[GetAuthorCourses](@AuthorID)", authorIDParameter);
         }
     
         public virtual int DeleteCourse(Nullable<int> courseID)
@@ -54,9 +54,9 @@ namespace DbFirst
             return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("DeleteCourse", courseIDParameter);
         }
     
-        public virtual ObjectResult<GetCourses_Result> GetCourses()
+        public virtual ObjectResult<GetCoursesResult> GetCourses()
         {
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<GetCourses_Result>("GetCourses");
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<GetCoursesResult>("GetCourses");
         }
     
         public virtual int InsertCourse(Nullable<int> authorID, string title, string description, Nullable<short> price, string levelString, Nullable<byte> level)
