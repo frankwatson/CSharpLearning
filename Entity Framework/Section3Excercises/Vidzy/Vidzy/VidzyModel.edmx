@@ -94,6 +94,7 @@
           <EntitySetMapping Name="Videos">
             <EntityTypeMapping TypeName="VidzyModel.Video">
               <MappingFragment StoreEntitySet="Videos">
+                <ScalarProperty Name="GenreId" ColumnName="GenreId" />
                 <ScalarProperty Name="Id" ColumnName="Id" />
                 <ScalarProperty Name="Name" ColumnName="Name" />
                 <ScalarProperty Name="ReleaseDate" ColumnName="ReleaseDate" />
@@ -102,6 +103,9 @@
             <EntityTypeMapping TypeName="VidzyModel.Video">
               <ModificationFunctionMapping>
                 <InsertFunction FunctionName="VidzyModel.Store.spAddVideo">
+                  <AssociationEnd AssociationSet="VideoGenre" From="Video" To="Genre">
+                    <ScalarProperty Name="Id" ParameterName="Genre" />
+                  </AssociationEnd>
                   <ScalarProperty Name="ReleaseDate" ParameterName="ReleaseDate" />
                   <ScalarProperty Name="Name" ParameterName="Name" />
                 </InsertFunction>

@@ -1,0 +1,15 @@
+C:\Users\Frank\Documents\Git\frankwatson\CSharpLearning\Entity Framework\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\Frank\Documents\Git\frankwatson\CSharpLearning\Entity Framework\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\Frank\Documents\Git\frankwatson\CSharpLearning\Entity Framework\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\Frank\Documents\Git\frankwatson\CSharpLearning\Entity Framework\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Frank\Documents\Git\frankwatson\CSharpLearning\Entity Framework\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Frank\Documents\Git\frankwatson\CSharpLearning\Entity Framework\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Frank\Documents\Git\frankwatson\CSharpLearning\Entity Framework\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Frank\Documents\Git\frankwatson\CSharpLearning\Entity Framework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\frankwatson\CSharpLearning\Entity Framework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\frankwatson\CSharpLearning\Entity Framework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\frankwatson\CSharpLearning\Entity Framework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\Frank\Documents\Git\frankwatson\CSharpLearning\Entity Framework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\Frank\Documents\Git\frankwatson\CSharpLearning\Entity Framework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+C:\Users\Frank\Documents\Git\frankwatson\CSharpLearning\Entity Framework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialModel.resources
+C:\Users\Frank\Documents\Git\frankwatson\CSharpLearning\Entity Framework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache

@@ -18,15 +18,15 @@
           <ScalarProperty Name="ReleaseDate" ColumnName="ReleaseDate" />
         </MappingFragment>
       </EntityTypeMapping>
+      <EntityTypeMapping TypeName="VidzyModel.Video">
+        <ModificationFunctionMapping>
+          <InsertFunction FunctionName="VidzyModel.Store.spAddVideo">
+            <ScalarProperty Name="ReleaseDate" ParameterName="ReleaseDate" />
+            <ScalarProperty Name="Name" ParameterName="Name" />
+          </InsertFunction>
+        </ModificationFunctionMapping>
+      </EntityTypeMapping>
     </EntitySetMapping>
-    <AssociationSetMapping Name="VideoGenres" TypeName="VidzyModel.VideoGenres" StoreEntitySet="VideoGenres">
-      <EndProperty Name="Genres">
-        <ScalarProperty Name="Id" ColumnName="GenreId" />
-      </EndProperty>
-      <EndProperty Name="Videos">
-        <ScalarProperty Name="Id" ColumnName="VideoId" />
-      </EndProperty>
-    </AssociationSetMapping>
     <FunctionImportMapping FunctionImportName="AddVideo" FunctionName="VidzyModel.Store.spAddVideo" />
   </EntityContainerMapping>
 </Mapping>

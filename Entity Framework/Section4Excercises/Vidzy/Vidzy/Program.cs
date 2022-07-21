@@ -1,0 +1,13 @@
+﻿using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Vidzy
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+        }
+    }
+}
