@@ -1,0 +1,15 @@
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\FluentAPI\FluentAPI\bin\Debug\FluentAPI.exe.config
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\FluentAPI\FluentAPI\bin\Debug\FluentAPI.exe
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\FluentAPI\FluentAPI\bin\Debug\FluentAPI.pdb
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\FluentAPI\FluentAPI\bin\Debug\EntityFramework.dll
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\FluentAPI\FluentAPI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\FluentAPI\FluentAPI\bin\Debug\EntityFramework.xml
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\FluentAPI\FluentAPI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.CopyComplete
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\FluentAPI\FluentAPI\obj\Debug\FluentAPI.exe
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\FluentAPI\FluentAPI\obj\Debug\FluentAPI.pdb
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\FluentAPI\FluentAPI\obj\Debug\FluentAPI.Migrations.InitialModel.resources
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.GenerateResource.cache

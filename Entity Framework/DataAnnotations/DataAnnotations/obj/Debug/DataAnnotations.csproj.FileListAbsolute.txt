@@ -1,0 +1,16 @@
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\DataAnnotations\DataAnnotations\bin\Debug\DataAnnotations.exe.config
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\DataAnnotations\DataAnnotations\bin\Debug\DataAnnotations.exe
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\DataAnnotations\DataAnnotations\bin\Debug\DataAnnotations.pdb
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.dll
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.xml
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.AssemblyReference.cache
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.SuggestedBindingRedirects.cache
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.CopyComplete
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.exe
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.pdb
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.Migrations.InitialModel.resources
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.GenerateResource.cache
+C:\Users\Frank\Documents\Git\CSharpLearning\Entity Framework\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.Migrations.AddAnnotationsToCourseTable.resources
